@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"strconv"
 
+	"github.com/asimovsecurity/rosgo/libgengo"
 	"github.com/buger/jsonparser"
 	"github.com/pkg/errors"
-	"github.com/team-rocos/rosgo/libgengo"
 )
 
 // DEFINE PUBLIC STRUCTURES.

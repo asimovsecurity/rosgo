@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/team-rocos/rosgo/ros"
+	"github.com/asimovsecurity/rosgo/ros"
 )
 
 //RTTest tests the serialization, deserialization, and JSON functions of dynamic_message.

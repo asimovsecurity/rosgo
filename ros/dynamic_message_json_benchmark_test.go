@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	gengo "github.com/team-rocos/rosgo/libgengo"
+	gengo "github.com/asimovsecurity/rosgo/libgengo"
 )
 
 // Benchmarks on JSON marshalling.

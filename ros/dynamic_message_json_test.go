@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	gengo "github.com/team-rocos/rosgo/libgengo"
+	gengo "github.com/asimovsecurity/rosgo/libgengo"
 )
 
 func TestDynamicMessage_JSON_primitives(t *testing.T) {

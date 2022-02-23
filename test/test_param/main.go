@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/team-rocos/rosgo/libtest/libtest_param"
+	"github.com/asimovsecurity/rosgo/libtest/libtest_param"
 )
 
 func main() {

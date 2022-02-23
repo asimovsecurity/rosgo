@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"sync"
 
+	"github.com/asimovsecurity/rosgo/xmlrpc"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
-	"github.com/team-rocos/rosgo/xmlrpc"
 )
 
 type messageEvent struct {

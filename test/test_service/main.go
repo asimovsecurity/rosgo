@@ -4,7 +4,7 @@ package main
 import (
 	"testing"
 
-	"github.com/team-rocos/rosgo/libtest/libtest_service"
+	"github.com/asimovsecurity/rosgo/libtest/libtest_service"
 )
 
 func main() {
