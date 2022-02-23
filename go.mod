@@ -1,4 +1,4 @@
-module github.com/team-rocos/rosgo
+module github.com/asimovsecurity/rosgo
 
 go 1.16
 
